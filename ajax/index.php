@@ -1,0 +1,1 @@
+<script>alert('Zô làm gì')</script>

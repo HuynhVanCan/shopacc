@@ -1,0 +1,97 @@
+[02-Nov-2019 14:06:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[02-Nov-2019 14:07:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[02-Nov-2019 14:07:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[02-Nov-2019 14:12:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[02-Nov-2019 14:12:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[02-Nov-2019 14:41:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[02-Nov-2019 21:41:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[03-Nov-2019 01:36:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[03-Nov-2019 08:36:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[03-Nov-2019 13:37:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[03-Nov-2019 20:37:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[04-Nov-2019 09:43:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[04-Nov-2019 16:43:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[04-Nov-2019 14:40:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[04-Nov-2019 21:40:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[04-Nov-2019 14:45:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[04-Nov-2019 21:45:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[04-Nov-2019 19:31:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[05-Nov-2019 02:31:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[06-Nov-2019 11:42:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 09:49:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 16:49:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[07-Nov-2019 09:50:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 16:50:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[07-Nov-2019 09:50:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 16:50:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[07-Nov-2019 09:50:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 16:50:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[07-Nov-2019 12:49:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 13:36:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 20:36:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[07-Nov-2019 13:36:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[07-Nov-2019 20:36:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[09-Nov-2019 05:04:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[09-Nov-2019 12:04:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[09-Nov-2019 05:04:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[09-Nov-2019 12:04:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[09-Nov-2019 09:02:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[09-Nov-2019 16:02:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[09-Nov-2019 12:19:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[09-Nov-2019 12:20:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[10-Nov-2019 01:30:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[10-Nov-2019 04:19:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[10-Nov-2019 08:04:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[11-Nov-2019 15:02:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[16-Nov-2019 07:32:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[16-Nov-2019 11:43:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[16-Nov-2019 14:22:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[17-Nov-2019 01:09:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[17-Nov-2019 12:04:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[17-Nov-2019 13:40:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[19-Nov-2019 07:33:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[19-Nov-2019 09:02:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[19-Nov-2019 13:09:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[19-Nov-2019 15:12:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[20-Nov-2019 07:32:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[20-Nov-2019 07:51:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[23-Nov-2019 04:59:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[23-Nov-2019 11:59:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[23-Nov-2019 04:59:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[23-Nov-2019 11:59:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[23-Nov-2019 04:59:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[23-Nov-2019 11:59:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[23-Nov-2019 04:59:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[23-Nov-2019 11:59:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[24-Nov-2019 07:05:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[24-Nov-2019 10:10:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[24-Nov-2019 17:10:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[24-Nov-2019 10:10:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[24-Nov-2019 17:10:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[24-Nov-2019 10:10:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[24-Nov-2019 17:10:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[24-Nov-2019 13:59:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[24-Nov-2019 13:59:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[24-Nov-2019 14:23:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[26-Nov-2019 17:53:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[27-Nov-2019 00:54:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[26-Nov-2019 17:54:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[27-Nov-2019 00:54:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[30-Nov-2019 14:54:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[30-Nov-2019 21:54:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[30-Nov-2019 14:54:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[30-Nov-2019 21:54:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[01-Dec-2019 09:37:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[01-Dec-2019 16:37:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[01-Dec-2019 09:37:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[01-Dec-2019 16:37:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[01-Dec-2019 09:37:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[01-Dec-2019 16:37:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[01-Dec-2019 09:37:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[01-Dec-2019 16:37:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[01-Dec-2019 09:37:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[01-Dec-2019 16:37:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[01-Dec-2019 09:37:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[01-Dec-2019 16:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 1 in /home/mhrwlddc/public_html/demo1/login/Facebook/Http/GraphRawResponse.php on line 108
+[04-Feb-2020 12:47:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
+[05-Feb-2020 08:20:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/mhrwlddc/public_html/demo1/TMQ/config.php on line 2
